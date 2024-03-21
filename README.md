@@ -95,7 +95,7 @@ Set up routes for the Flask application:
 - Append the user data to the CSV file each time a new submission is made.
 
 9. Run the Flask Application:
-- Start the Flask application by running the Python script (app.py).
+- Start the Flask application by running the Python script (Question2 app.py).
 - The application will be accessible locally at a URL provided by ngrok.
 
 Conclusion:
